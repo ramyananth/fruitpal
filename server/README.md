@@ -3,7 +3,7 @@ Steps Involved:
 1. Getting the server to run on a specific port
    import express and cors to index.js
 
-2. Creata initial table
+2. Create initial table
    Connect to postgres and create tables based on database.sql file
 
 3. Connect database and server
